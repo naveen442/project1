@@ -1,1 +1,8 @@
 /* You can add global styles to this file, and also import other style files */
+@import './bootstrap.css';
+.navbar-nav{
+padding-left: 950px ;
+}
+.btn{
+    margin-left: 400px;
+}
